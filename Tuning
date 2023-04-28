@@ -1,0 +1,11 @@
+### triplet_margin
+
+margin проверяли 0.2 0.4 0.5 0.6 0.7 - лучший 0.5
+
+normalize_embeddings: пробовали True, лучше оставить False
+
+### phystech_campus
+
+mink_quantization_size: было 0.01, попробовали 0.03, 0.06 - лучший 0.06
+
+на full dataset 16 эпох лучше всего
